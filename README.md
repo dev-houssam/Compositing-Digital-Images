@@ -5,7 +5,7 @@ Compositing Digital Images : C'est notamment le papier qui formalise l'algèbre 
 Dans le contexte d'optimisation extreme.
 
 Recherches : 
-Lien : https://www.emaxilde.net/talks/bit-twiddling-duff-s-device-les-optimisations-extremes-de-code/#/5/2/5
+Lien (Point d'entrée) : https://www.emaxilde.net/talks/bit-twiddling-duff-s-device-les-optimisations-extremes-de-code/#/5/2/5
 
 Lien : https://dl.acm.org/doi/epdf/10.1145/964965.808606
 
