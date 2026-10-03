@@ -1,4 +1,4 @@
-# 🌊 Ring Buffer + Duff's Device : l'anneau dans une vague d'amortissement
+# 🌊 Ring Buffer + Duff's Device (RBD2) : l'anneau dans une vague d'amortissement
 
 Cette idée repose sur la combinaison de deux mécanismes qui répondent à deux problèmes différents :
 
